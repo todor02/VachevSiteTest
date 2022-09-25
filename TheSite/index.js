@@ -21,7 +21,7 @@ import teacherPoint from './images/teacherPoint.jpg'
 import workMeeting from './images/workMeeting.png'
 
 
-function EvryThing () {
+function EveryThing () {
     return (
         <table cellspacing="20">
         <h1 align="center"><font>Managed agency selection</font></h1>
@@ -57,4 +57,4 @@ function EvryThing () {
     )
 }
 
-ReactDOM.render(<EvryThing  /> , document.getElementById('root'));
+ReactDOM.render(<EveryThing  /> , document.getElementById('root'));
